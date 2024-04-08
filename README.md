@@ -1,0 +1,2 @@
+# BARAM_SEMINAR_PYTHON_LANG
+Python 세미나
