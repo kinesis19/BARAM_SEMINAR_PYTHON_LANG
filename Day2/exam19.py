@@ -1,3 +1,4 @@
+# 가변인자 활용 예시
 def add(a, b, *numbers):
     result = a + b
     for num in numbers:
